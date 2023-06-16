@@ -4,31 +4,71 @@
       "id": 4,
       "conteudo": "Lorem ipsum dolor sit pequenoo",
       "autoria": "Aconsectetur, adipisci ",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 5,
       "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
       "autoria": "Tfnwoivv, adipisci ",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 6,
       "conteudo": "meu pensamentpo",
       "autoria": "carol",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 7,
       "conteudo": "dfsdfdsfdsf",
       "autoria": "fsdfdsfsdfsdffsdf",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
-      "conteudo": "                     gfdgfdgfd",
+      "conteudo": "gfdgfdgfd",
       "autoria": "4ggg",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 8
+    },
+    {
+      "conteudo": "sexto pensamento",
+      "autoria": "sexto",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 9
+    },
+    {
+      "conteudo": "setimo pensamento",
+      "autoria": "setimo",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 10
+    },
+    {
+      "conteudo": "oitavo pensamento",
+      "autoria": "oitavo",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 11
+    },
+    {
+      "conteudo": "Mais um novo pensamento",
+      "autoria": "Ninguem",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 12
+    },
+    {
+      "conteudo": "mais pensamentos aleatorios",
+      "autoria": "carol",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 13
     }
   ]
 }
